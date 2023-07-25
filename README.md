@@ -12,15 +12,16 @@ En este repositorio Github econtraremos un proyecto kotlin fue basado en un proy
   
 ## Imagenes 
 # Splash Screen
-![Imagen de WhatsApp 2023-07-25 a las 12 08 30](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/2651852a-27e6-4f98-a311-6df0ce1e91fc)
+![Imagen de WhatsApp 2023-07-25 a las 12 08 30](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/22f6abac-3f59-4f53-8779-cc0cc064b282)
 # Inicio de Sesion
-![Imagen de WhatsApp 2023-07-25 a las 12 08 31](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/6bc369df-0054-47c2-bd98-8088098de475)
+![Imagen de WhatsApp 2023-07-25 a las 12 08 31](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/e62b1f34-e3ef-43f9-af7e-4c1330996c23)
 # Drawer
-![Imagen de WhatsApp 2023-07-25 a las 12 08 32](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/9d35a2ff-623a-42db-95a4-5c5cf82dcc57)
+![Imagen de WhatsApp 2023-07-25 a las 12 08 32](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/34199204-997d-4b40-a69d-0e9288ccf342)
 # Pagina Principal
-![Imagen de WhatsApp 2023-07-25 a las 12 08 31](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/a6e0afbc-ca82-4825-96ef-3e5b2365fa1f)
+![Imagen de WhatsApp 2023-07-25 a las 12 08 31](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/c6350e58-9f9d-469c-9922-2024380ce593)
 # Maps
-![Imagen de WhatsApp 2023-07-25 a las 12 08 32](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/39bb4fa3-147a-4d46-ab21-21c8b259ab5b)
+![Imagen de WhatsApp 2023-07-25 a las 12 08 32](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/de64c3bf-7e81-4867-b17c-1c722157c7e2)
+
 
 
 
