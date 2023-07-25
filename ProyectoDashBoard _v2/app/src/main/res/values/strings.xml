@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proyecto DashBoard</string>
+    <string name="CanalTienda">CanalTienda</string>
+    <string name="canal_Notifi">Canal de notificaciones CBA </string>
+    <string name="app_namee">Tienda CBA</string>
+    <string name="back_button">Back</string>
+</resources>
