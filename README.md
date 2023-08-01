@@ -8,6 +8,11 @@ Hicimos un paso a paso de una de las actividades que habia en developer android 
 
 ![image](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/b7ff921b-28fb-4223-82c8-1e19c2f3bab2)
 
+## [Ejercicio1](ejercicio1)
+Hicimos un paso a paso de una de las actividades que habia en developer android que era de crear nuestra primera aplicacion de compose era de crear una lista con difrentes textos y una animacion que cuando lo desplega tiene una animacion de rebote para abrir
+
+![image](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/7790772c-93c5-4392-b209-88574f6fc279)
+
 
 # Proyecto_Final_Kotlin
 En este repositorio Github econtraremos un proyecto kotlin fue basado en un proyecto de flutter pero esta vez estamos intentando hacerle lo mismo que flutter, pero toda via no esta conectado a ninguna base de datos, toda via esta en poceso su carrito de compras y sus apis 
