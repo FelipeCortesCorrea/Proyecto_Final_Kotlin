@@ -32,7 +32,7 @@ https://developer.android.com/codelabs/jetpack-compose-layouts?hl=es-419&continu
 
 ![image](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/ab187972-bbef-4175-b8c2-c32bfd94ce73)
 
-## Proyecto5_Reto
+## [Proyecto5_Reto](Projecto5_Reto)
 El reto era modificar las imagenes a una tienda y crearle una nueva fila con productos 
 
 ![image](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/7f05d29d-d4d3-4ad6-94d1-391dac80703c)
