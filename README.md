@@ -4,14 +4,26 @@ Hicimos un paso a paso de una de las actividades que habia en  developer android
 ![image](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/37529a7f-7dac-43b4-8457-06c2b0d730fc)
 
 ## [Estados](Estados)
-Hicimos un paso a paso de una de las actividades que habia en developer android que trataba sobre los estados de jetpack compose, esta actividad era para saber que tipo de estados podiamos utilizar para cada ocasion
+Hicimos un paso a paso de una de las actividades que habia en developer android que trataba sobre los estados de jetpack compose, esta actividad era para saber que tipo de estados podiamos utilizar para cada ocasion.
+Dejo el link de la aplicacion a continuacion:
+
+https://developer.android.com/codelabs/jetpack-compose-state?hl=es-419&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fjetpack-compose-for-android-developers-1%3Fhl%3Des-419%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fjetpack-compose-state#0
 
 ![image](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/b7ff921b-28fb-4223-82c8-1e19c2f3bab2)
 
 ## [Ejercicio1](ejercicio1)
-Hicimos un paso a paso de una de las actividades que habia en developer android que era de crear nuestra primera aplicacion de compose era de crear una lista con difrentes textos y una animacion que cuando lo desplega tiene una animacion de rebote para abrir
+Hicimos un paso a paso de una de las actividades que habia en developer android que era de crear nuestra primera aplicacion de compose era de crear una lista con difrentes textos y una animacion que cuando lo desplega tiene una animacion de rebote para abrir.Dejo el link de la aplicacion a continuacion: 
+ 
+https://developer.android.com/codelabs/jetpack-compose-basics?hl=es-419&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fjetpack-compose-for-android-developers-1%3Fhl%3Des-419%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fjetpack-compose-basics#0
 
 ![image](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/7790772c-93c5-4392-b209-88574f6fc279)
+
+## [Ejercicio2](ejercicio2)
+Hicimos un paso a paso de una de las actividades que habia en developer android que era de crear una aplicacion con un chat como si uno estuviera hablando con alguien, esa actividad tambien tien dos temas oscuro y claro y tambien a la hora de darle al chat se extiende si el texto que esta dentro es muy largo.Dejo el link de la aplicacion a continuacion: 
+
+https://developer.android.com/jetpack/compose/tutorial?hl=es-419
+
+![image](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/da65e5fc-0266-4c57-a9b9-c0b50d02cba2)
 
 
 # Proyecto_Final_Kotlin
