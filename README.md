@@ -3,6 +3,12 @@ Hicimos un paso a paso de una de las actividades que habia en  developer android
 
 ![image](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/37529a7f-7dac-43b4-8457-06c2b0d730fc)
 
+## Estados
+Hicimos un paso a paso de una de las actividades que habia en developer android que trataba sobre los estados de jetpack compose, esta actividad era para saber que tipo de estados podiamos utilizar para cada ocasion
+
+![image](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/b7ff921b-28fb-4223-82c8-1e19c2f3bab2)
+
+
 # Proyecto_Final_Kotlin
 En este repositorio Github econtraremos un proyecto kotlin fue basado en un proyecto de flutter pero esta vez estamos intentando hacerle lo mismo que flutter, pero toda via no esta conectado a ninguna base de datos, toda via esta en poceso su carrito de compras y sus apis 
 ## Contiene 
