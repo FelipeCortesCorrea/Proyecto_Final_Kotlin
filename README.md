@@ -25,6 +25,20 @@ https://developer.android.com/jetpack/compose/tutorial?hl=es-419
 
 ![image](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/da65e5fc-0266-4c57-a9b9-c0b50d02cba2)
 
+## [Proyecto5](Projecto5) 
+Hicimos un paso a paso de una de las actividades que habia en developer android que era de crear una aplicacion con diferente tipo de cards unas redondas y unas cuadradas, tambien a hicimos que hiciera un scroll hacia la derecha para ver mas preguntas.Dejo el link de la aplicacion a continuacion:
+
+https://developer.android.com/codelabs/jetpack-compose-layouts?hl=es-419&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fjetpack-compose-for-android-developers-1%3Fhl%3Des-419%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fjetpack-compose-layouts#0
+
+![image](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/ab187972-bbef-4175-b8c2-c32bfd94ce73)
+
+## Proyecto5_Reto
+El reto era modificar las imagenes a una tienda y crearle una nueva fila con productos 
+
+![image](https://github.com/FelipeCortesCorrea/Proyecto_Final_Kotlin/assets/110576497/7f05d29d-d4d3-4ad6-94d1-391dac80703c)
+
+
+
 
 # Proyecto_Final_Kotlin
 En este repositorio Github econtraremos un proyecto kotlin fue basado en un proyecto de flutter pero esta vez estamos intentando hacerle lo mismo que flutter, pero toda via no esta conectado a ninguna base de datos, toda via esta en poceso su carrito de compras y sus apis 
